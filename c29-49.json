@@ -16,6 +16,6 @@
     "modeads": true,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
-    "ratingActive": true
+    "RatingActive": true
   }
 }
