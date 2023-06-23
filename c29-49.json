@@ -1,15 +1,21 @@
 {
   "AdsController": {
     "adNetwork": "applovin",
-    "admobBanner": "",
-    "admobInterstitial": "",
-    "AdmobNative": "",
-    "applovinBanner": "00000000BANNER",
-    "applovinInterstitial": "1111111interstitual",
-    "ApplovinNative": "2222222Native",
-    "unityGameId": "",
-    "testMode": false,
-    "unityBanner": "",
-    "unityInterstitial": ""
+    "admobBanner": "ca-app-pub-9130547507605791/6489559529",
+    "admobInterstitial": "ca-app-pub-9130547507605791/3193861083",
+    "applovinBanner": "a17943e57d120444",
+    "applovinInterstitial": "89d9bcbf4c1f79ef",
+    "ApplovinNative": "89d9bcbf4c1f79ef",
+    "unityGameId": "5256337",
+    "personalnative": "https://app3-happygaming.netlify.app/native1.png",
+    "personaldirection": "https://play.google.com/store/apps/details?id=com.retrogames.deeersimulatorgame.deersimulator.DEEEERSimulator",
+    "personalnative2": "https://app3-happygaming.netlify.app/native2.png",
+    "personaldirection2": "https://play.google.com/store/apps/details?id=com.retrogamez.thormarvels.thorgame",
+    "hidedataw": haram,
+    "testMode": true,
+    "modeads": true,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "reviewActive": true
   }
 }
