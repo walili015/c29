@@ -4,12 +4,18 @@
     "admobBanner": "",
     "admobInterstitial": "",
     "AdmobNative": "",
-    "applovinBanner": "00000000BANNER",
-    "applovinInterstitial": "1111111interstitual",
-    "ApplovinNative": "2222222Native",
+    "applovinBanner": "f39c0474203e85fc",
+    "applovinInterstitial": "8285e4f1fced905b",
+    "ApplovinNative": "40586863f1c38179",
     "unityGameId": "",
     "testMode": false,
     "unityBanner": "",
-    "unityInterstitial": ""
+    "unityInterstitial": "",
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXX",
+    "modeads": false,
+    "IMG1_URL": "https://c33.netlify.app/c33-1.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXX"
   }
 }
