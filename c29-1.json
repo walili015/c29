@@ -11,7 +11,7 @@
     "testMode": false,
     "unityBanner": "",
     "unityInterstitial": "",
-    "RatingActive": true,
+    "ratingactive": true,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXX",
     "modeads": false,
