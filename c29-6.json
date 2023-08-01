@@ -10,6 +10,12 @@
     "unityGameId": "",
     "testMode": false,
     "unityBanner": "",
-    "unityInterstitial": ""
+    "unityInterstitial": "",
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXX",
+    "modeads": false,
+    "IMG1_URL": "https://c33.netlify.app/c33-1.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXX"
   }
 }
