@@ -15,8 +15,10 @@
     "unityBanner": "",
     "unityInterstitial": "",
     "ratingactive": false,
+    "appsuspand": "false",
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
     "modeads": false,
-    "IMG1_URL": "",
-    "TEXT1_URL": ""
+    "IMG1_URL": "https://c33.netlify.app/c33-11.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.ramadanstudio"
   }
 }
