@@ -1,0 +1,17 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinBanner": "",
+    "applovinInterstitial": "c531e9a2c049d34d",
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
+    "modeads": false,
+    "IMG1_URL": "https://c30.netlify.app/c30-4.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XxXxXxXx111",
+    "IMG2_URL": "https://c30.netlify.app/c30-4.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=xXxXxXxXxX22"
+  }
+}
