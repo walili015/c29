@@ -1,17 +1,17 @@
 [
   {
-    "name": "best va home loan",
+    "name": "home loan",
     "url": "https://i.pinimg.com/564x/70/9b/34/709b342c2de2b040d107409fab19cbe1.jpg",
     "previewUrl": "https://i.pinimg.com/564x/70/9b/34/709b342c2de2b040d107409fab19cbe1.jpg",
     "categories": "Baby",
-    "premium": false
+    "premium": true
   },
   {
     "name": "lendwise capital",
     "url": "https://i.pinimg.com/564x/71/86/9e/71869e3ffc787e2a49d98a8ccb20ae77.jpg",
     "previewUrl": "https://i.pinimg.com/564x/71/86/9e/71869e3ffc787e2a49d98a8ccb20ae77.jpg",
     "categories": "Baby, Daddy",
-    "premium": true
+    "premium": false
   },
   {
     "name": "mortgage",
@@ -25,14 +25,14 @@
     "url": "https://i.pinimg.com/564x/86/2d/d3/862dd3df531b1e6237cb85dd90455854.jpg",
     "previewUrl": "https://i.pinimg.com/564x/86/2d/d3/862dd3df531b1e6237cb85dd90455854.jpg",
     "categories": "Baby",
-    "premium": false
+    "premium": true
   },
   {
     "name": "refinance",
     "url": "https://i.pinimg.com/564x/11/77/b9/1177b905f2b64c42d32e09e81d07a44a.jpg",
     "previewUrl": "https://i.pinimg.com/564x/11/77/b9/1177b905f2b64c42d32e09e81d07a44a.jpg",
     "categories": "Baby",
-    "premium": true
+    "premium": false
   },
   {
     "name": "second charge mortgage",
