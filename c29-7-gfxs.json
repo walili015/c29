@@ -1,15 +1,15 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinBanner": "",
-    "applovinInterstitial": "c531e9a2c049d34d",
+    "applovinInterstitial": "07da405b82f1135f",
     "ratingactive": true,
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXX",
     "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XxXxXxXx111"
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki"
   }
 }
